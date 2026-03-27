@@ -117,3 +117,5 @@ geoai-mentor/
 - Como o `InMemoryChatMessageHistory` armazena e recupera o histórico por sessão
 - Como o `RunnableWithMessageHistory` conecta memória e cadeia de forma transparente
 - Boas práticas de segurança: variáveis sensíveis em `.env`, nunca no código
+
+## Desafio Proposto pela Alura.
