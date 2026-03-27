@@ -6,7 +6,8 @@
 
 ## 🎯 Problema
 
-- Profissionais de Geociências possuem habilidades valiosas em matemática, física e análise de dados, mas frequentemente não sabem por onde começar na transição para IA. O  - - GeoAI Mentor atua como um mentor de carreira especializado nessa ponte, mantendo o contexto da conversa para orientações cada vez mais personalizadas.
+- Profissionais de Geociências possuem habilidades valiosas em matemática, física e análise de dados, mas frequentemente não sabem por onde começar na transição para IA.
+- O GeoAI Mentor atua como um mentor de carreira especializado nessa ponte, mantendo o contexto da conversa para orientações cada vez mais personalizadas.
 ---
 
 ## 🏗️ Arquitetura
