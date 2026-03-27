@@ -1,6 +1,7 @@
 # 🌍 GeoAI Mentor
-Chatbot com memória de sessão para orientar profissionais de **Geociências** (Geologia e Geofísica) na transição para **Ciência de Dados e Inteligência Artificial**.
-Construído com **LangChain**, **LM Studio** e **Gemma 3** rodando 100% localmente — sem enviar dados para nenhuma API externa.
+
+- Chatbot com memória de sessão para orientar profissionais de **Geociências** (Geologia e Geofísica) na transição para **Ciência de Dados e Inteligência Artificial**.
+- Construído com **LangChain**, **LM Studio** e **Gemma 3** rodando 100% localmente — sem enviar dados para nenhuma API externa.
 ---
 
 ## 🎯 Problema
